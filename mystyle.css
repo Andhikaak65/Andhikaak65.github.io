@@ -1,4 +1,5 @@
 body {background-color: cadetblue;}
 h2 {color: blueviolet;background-color: darkslateblue;}
-h3 {color: cornflowerblue;}
-table, th, td {border: 2px blue; text-align: center;color: indigo;}
+h3 {color: darkmagenta;}
+table, th, td {border: 2px blue; text-align: center;color: indigo;border-collapse: collapse;padding: 10px;}
+p {font-family: 'Brush Script MT', cursive;}
