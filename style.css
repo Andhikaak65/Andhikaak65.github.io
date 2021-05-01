@@ -1,5 +1,4 @@
 body {background-color: cadetblue;}
 h2 {color: blueviolet;background-color: darkslateblue;}
 h3 {color: cornflowerblue;}
-table, th, td {border: 2px blue; text-align: center;color: indigo;}
-p {color: indigo; background-color: fuchsia;}
+table, th, td {border: 2px solid blue; text-align: center;color: indigo;}
